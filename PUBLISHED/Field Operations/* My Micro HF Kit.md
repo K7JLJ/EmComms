@@ -1,3 +1,0 @@
-The purpose of this kit is to have regional comms with minimal gear that can be supported with low power requirements initially before needing to recharge or seek other sources of power.
-
-It primarily consists of the [[(tr)uSDX]] 5W transceiver and pared with the proper terminal (see  [[Choosing A Terminal]] for details) it gives me comms ability across the USA with digital modes like [[JS8Call]] and [[* Winlink]] email services, or even to text.
