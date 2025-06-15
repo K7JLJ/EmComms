@@ -12,13 +12,3 @@ The [@PNW JS8Call Group](https://github.com/K7JLJ/EmComms/blob/main/JS8Call%20%4
 
 -72 de [K7JLJ](https://www.hamqth.com/K7JLJ)  
 
----
-
-### SITE MAP
-**Digital HF**
-- [GPS Time Syncing](https://github.com/K7JLJ/EmComms/blob/main/GPS%20Time%20Syncing.md)
-
-**OS / Hardware**
-- [GraphenOS](https://github.com/K7JLJ/EmComms/blob/main/GrapheneOS.md)
-
-**Field Kit**
