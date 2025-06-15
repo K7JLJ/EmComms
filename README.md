@@ -1,4 +1,3 @@
-# K7JLJ.com
 ![header.jpeg](https://i.postimg.cc/Bb5KbCCG/header.jpg)
 
 >‘Wise men speak because they have something to say; Fools because they have to say something.’ – Unknown
