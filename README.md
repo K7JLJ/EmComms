@@ -18,4 +18,5 @@ The [@PNW JS8Call Group](https://github.com/K7JLJ/EmComms/blob/main/JS8Call%20%4
 ### SITE MAP
 - [(tr)uSDX](https://github.com/K7JLJ/EmComms/blob/main/(tr)uSDX.md)
 - [Battery Calculations](https://github.com/K7JLJ/EmComms/blob/main/Battery%20Calculations.md)
+- [Choosing A Terminal](https://github.com/K7JLJ/EmComms/blob/main/Choosing%20A%20Terminal.md)
 
